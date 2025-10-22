@@ -1,5 +1,9 @@
 A simple Python script to remove specific text (like `_x64`) from filenames in a folder.
 
+## 🖼️ Preview
+
+![Preview](fdsafdasdas.png)
+
 ---
 
 ## 🧩 Description
